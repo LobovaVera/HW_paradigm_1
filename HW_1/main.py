@@ -2,6 +2,7 @@ import sort_1
 import sort_2
 
 def main():
+    print("hello")
     numbers_1 = [ 2,4,6,7,8,0,2,1,6,3,9]
     print(numbers_1)
     numbers_1 = sort_1.sort_list_imperative(numbers_1)
