@@ -2,7 +2,7 @@ import sort_1
 import sort_2
 
 def main():
-    numbers_1 = [ 1,4,6,7,8,0,2,1,6,3,9]
+    numbers_1 = [ 1,4,6,7,8,0,2,1,6,3,9, 4]
     numbers_i = sort_1.sort_list_imperative(numbers_1)
     print("императивный ")
     print(sort_1.reverse(numbers_i))
